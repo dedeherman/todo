@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash1.jpg",
+      "image": "./assets/splash1.png",
       "resizeMode": "cover",
       "backgroundColor": "#"
     },
@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.myexpo2022.ToDoApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
